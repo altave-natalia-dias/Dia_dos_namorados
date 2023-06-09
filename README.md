@@ -1,3 +1,3 @@
 # Dia_dos_namorados
 
-Cart
+Cartão de dia dos namorados!
